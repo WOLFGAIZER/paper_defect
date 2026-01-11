@@ -32,6 +32,9 @@ The solution leverages **OpenCV** for efficient, offline image analysis without 
 
 ---
 
+LINK TO THE REPORT OF THE PROJECT
+https://drive.google.com/file/d/11mNQL-i98X3SKVY_2CVmlCBYCOtE-kcN/view?usp=sharing
+
 ## 📂 Repository Structure
 ```text
 paper_defect/
